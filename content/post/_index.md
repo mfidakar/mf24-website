@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Posts
+title: My Narratives
 view: 2
 ---
