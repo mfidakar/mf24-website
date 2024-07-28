@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "forest"
+theme = "coffee"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -97,7 +97,7 @@ address = {street = "1516 Clifton Road", city = "Atlanta", postcode = "30329", c
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.89880372360921", longitude = "-77.04731445946355"} 
+coordinates = {latitude = "33.797273", longitude = "-84.32305"} 
 
 # Directions for visitors to locate you.
 directions = "RRR building, 4th floor, R400A"

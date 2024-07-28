@@ -55,7 +55,7 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/mohammad.fidakar/
   
-- icon: facebook 
+- icon: twitter 
   icon_pack: fab
   link: https://www.facebook.com/mohammad.fidakar/
   
@@ -71,4 +71,4 @@ At GW, I teach courses on comparative political economy, data science and South 
 I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/drive/home" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/fidakar_cv.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.
