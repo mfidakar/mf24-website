@@ -1,5 +1,5 @@
 ---
-bio: I am a 2nd year economics PhD student with an interest in development economics. 
+bio: Mohammad Fidakar 
 
 education:
   courses:

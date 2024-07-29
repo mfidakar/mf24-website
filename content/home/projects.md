@@ -3,16 +3,16 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: false
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
-title: Projects
-subtitle: ''
+title: Teaching
+subtitle: 'Ghazni University (2014-2021)'
 
 content:
   # Page type to display. E.g. project.
