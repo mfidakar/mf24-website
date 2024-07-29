@@ -64,7 +64,7 @@ superuser: true
 title: Mohammad Fidakar
 ---
 
-Hi, I am a displaced scholar from [Ghaznayn](https://en.wikipedia.org/wiki/Ghazni) (Afghanistan), and currently an economics PhD student at [Emory University](https://www.emory.edu/home/index.html). My academic journey includes a Master of Development Policy with a focus on sustainable development from [KDI School](https://www.kdischool.ac.kr/) in South Korea and a Bachelor degree in Economics from Balkh University in Afghanistan.
+Hi, I am Mohammad Fidakar, a displaced scholar from [Ghaznayn](https://en.wikipedia.org/wiki/Ghazni) (Afghanistan), and currently an economics PhD student at [Emory University](https://www.emory.edu/home/index.html). My academic journey includes a Master of Development Policy with a focus on sustainable development from [KDI School](https://www.kdischool.ac.kr/) in South Korea and a Bachelor degree in Economics from Balkh University in Afghanistan.
 
 Prior to joining Emory, I served as a Senior Teaching Assistant at Ghazni University, where I taught courses in Introduction to Development Theory, Public Economics, History of Economic Thoughts, and Microeconomics to undergraduate students. My teaching career at Ghazni University began in 2013, and I was selected to lead the university's research center in 2020.
 
