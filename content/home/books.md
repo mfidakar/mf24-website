@@ -9,9 +9,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
-title: Book
+title: The Impact of Maternal Education on Maternal Health Seeking Behavior in Afghanistan
 subtitle: ""
 
 content:
@@ -21,9 +21,9 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Mohammad Fidakar"
     category: ""
-    publication_type: "5"
+    publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc

@@ -1,20 +1,10 @@
 ---
-title: Steps to create website with blogdown and the Hugo Academic (Wowchemy) theme
+title: Fleeing Afghanistan...
 author: Emmanuel 
-link:https://news.emory.edu/stories/2024/06/er_fidakar_economics_scholar_11-06-2024/story.html
 
 
 
-subtitle: ''
-summary: ''
-authors: []
-lastmod: '`r Sys.Date()`' 
-featured: no
-image:
-  caption: 
-  preview_only: no
-projects: []
-draft: FALSE
+
 ---
 
 <script src="https://utteranc.es/client.js"

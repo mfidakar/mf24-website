@@ -22,7 +22,7 @@ interests:
 - Applied Microeconomics
 - Development Economics
 - Refugee Economics
-- Political Economics
+
 
 organizations:
 - name: Emory University
@@ -33,7 +33,7 @@ role: Economics PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mohammad.fidakar@emory.edu
+  link: '/#contact'
   
 - icon: X
   icon_pack: fab
@@ -64,11 +64,11 @@ superuser: true
 title: Mohammad Fidakar
 ---
 
-Hi, I am a displaced scholar from [Ghaznayn](https://en.wikipedia.org/wiki/Ghazni) (Afghanistan), and an economics PhD student at [Emory University](https://www.emory.edu/home/index.html). I have a master degree in development policy concentrated on sustainable development from South Korea and a bachelor in economics from Afghanistan.  
+Hi, I am a displaced scholar from [Ghaznayn](https://en.wikipedia.org/wiki/Ghazni) (Afghanistan), and currently an economics PhD student at [Emory University](https://www.emory.edu/home/index.html). My academic journey includes a Master of Development Policy with a focus on sustainable development from [KDI School](https://www.kdischool.ac.kr/) in South Korea and a Bachelor degree in Economics from Balkh University in Afghanistan.
 
-At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/). 
+Prior to joining Emory, I served as a Senior Teaching Assistant at Ghazni University, where I taught courses in Introduction to Development Theory, Public Economics, History of Economic Thoughts, and Microeconomics to undergraduate students. My teaching career at Ghazni University began in 2013, and I was selected to lead the university's research center in 2020.
 
-I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
+As I step Outside work, photography enables me to have "A Closer Look" at the beauty of nature. I also enjoy playing soccer with friends in Atlanta.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/fidakar_cv.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.

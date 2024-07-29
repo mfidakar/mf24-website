@@ -9,6 +9,6 @@ featured: false
 image:
   preview_only: true
 publication: "*Iranian Economic Review*"
-doi: "10.22059/ier.2024.360371.1007743"
+doi: "10.22059/IER.2024.360371.1007743"
 ---
 
