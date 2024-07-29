@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Journal Articles
+title: Research
 subtitle: ''
 
 content:

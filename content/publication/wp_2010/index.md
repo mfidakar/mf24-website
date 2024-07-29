@@ -1,14 +1,17 @@
 ---
-title: "A Study on Profitability of Afghanistan Coal Mine with ARDL Approach; Case Study of the North Coal Enterprise in Afghanistan"
-date: 2024-02-12
-publishDate: 2024-02-12
-authors: ["Atefa Hussaini, Mohammad Fidakar, Abbas Erfan"]
+title: "The Impact of Maternal Education on Maternal Health Seeking Behavior in Afghanistan"
+date: 2018-07-12
+publishDate: 2018-07-12
+authors: ["Mohammad Fidakar"]
 
-abstract: "This study aims to investigate and predict the profitability of the North Coal Enterprise [NCE] in Afghanistan. NCE is the only state-owned-profit company that holds the authority of coal mining in Afghanistan. Although, for some reason, many of the collieries are handed over to the private sectors, even so, four mines are remained within the authority domain of this company. For the recent years, the professionalism and effective management of this enterprise resulted to a better coal mining in the country. Given that, profitability is one of the most important and effective factors of valuation which could be the margin image of the policies and the result of decisions in a company. To estimate the profitability of this company, the ARDL model has been run in Eviews to see the short-term and long-term relationships. The information used includes profitability variables (net profit ratio to total capital), capital structure (debt to total capital ratio), current ratio or liquidity, which is considered as an example for the years 1989-2019. The mentioned data was collected from the Ministry of Industries and Mines and the Northern Coal office. The estimation results show that sales revenue in the long term and the current ratio as operating liquidity in the short term can influence the increase in profitability and there is a negative relationship between capital structure and profitability. "
+
+abstract: "Due to the improvement in maternal health-seeking behavior, Afghanistan witnessed more than a 70 percent reduction in maternal mortality between 1990 and 2015. This study is designed to investigate the impact of maternal education on maternal health-seeking behavior in Afghanistan. In this quantitative research, cross-sectional data from the 2015 AfDHS (Afghanistan Demographic and Health Survey) is utilized. The data analysis was performed using STATA software. By employing OLS and Fixed Effect regressions, the effect of maternal education on antenatal care visits and delivery is estimated by region and ethnicity. The model is validated using possible controlling variables to find the pure effect of maternal education on maternal health habits. The study found that there is a significantly positive effect of maternal education on the number of visits and a strong negative effect on deliveries performed by untrained birth attendants in Afghanistan. Furthermore, the study found that the impact varies across different different ethnic groups and regions, meaning that maternal education is positively correlated with maternal health-seeking behavior across all nationalities and residents, with the highest impact on the Hazara ethnic group and rural residents. These findings call for policymakers to pay great attention to increasing investment in maternal education, considering incentives, and imposing compulsory schooling laws as important factors that can help to remove rural difficulties and socio-cultural barriers to women's education. Ultimately, improved maternal education will enhance maternal health-seeking behavior."
+
 featured: false
 image:
   preview_only: true
-publication: "*Iranian Economic Review*"
-doi: "10.22059/IER.2024.360371.1007743"
+publication: "*KDI School*"
+pdf: ""
+
 ---
 
