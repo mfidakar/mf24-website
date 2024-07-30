@@ -16,13 +16,13 @@
   
   
 [[main]]
-  name = "Narratives"
+  name = "Blog"
   url = "#posts"
   weight = 40
 
 
 [[main]]
-  name = "Contact"
+  name = ""
   url = "#contact"
   weight = 50
 
