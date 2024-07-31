@@ -31,7 +31,8 @@ font_size = "M"
 ############################
 ## Basic Info
 ############################
-
+# icon
+favicon = "favicon.ico"
 # Website type
 #   Improve how search engines understand your site.
 #   For personal sites, choose "Person".
