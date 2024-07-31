@@ -35,10 +35,6 @@ social:
   icon_pack: fas
   link: '/#contact'
   
-- icon: X
-  icon_pack: fab
-  link: https://x.com/i/flow/login?redirect_after_login=%2FFidakarMohammad
-  
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=DigHzEoAAAAJ
@@ -57,7 +53,7 @@ social:
   
 - icon: twitter 
   icon_pack: fab
-  link: https://www.facebook.com/mohammad.fidakar/
+  link: https://x.com/FidakarMohammad
   
 superuser: true
 
