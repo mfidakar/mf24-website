@@ -21,7 +21,7 @@ highlight_name: false
 interests:
 - Applied Microeconomics
 - Development Economics
-- Refugee Economics
+- Conflict, Displacement, Return Migration, and Social Cohesion
 
 
 organizations:
@@ -60,9 +60,9 @@ superuser: true
 title: Mohammad Fidakar
 ---
 
-Hi, I am Mohammad Fidakar, a displaced scholar from [Ghaznin](https://en.wikipedia.org/wiki/Ghazni) (Afghanistan), and currently an economics PhD student at [Emory University](https://www.emory.edu/home/index.html), where I also work as research assistant with [Professor Stephen D. O'Connell](https://www.stephenoconnell.org/). My academic journey includes a Master of Development Policy with a focus on sustainable development from [KDI School](https://www.kdischool.ac.kr/) in South Korea and a Bachelor degree in Economics from Balkh University in Afghanistan.
+Hi, I am Mohammad Fidakar, a displaced scholar from [Ghaznin](https://en.wikipedia.org/wiki/Ghazni) (Afghanistan), and currently an economics PhD student at [Emory University](https://www.emory.edu/home/index.html), where I also work as research assistant with [Professor Stephen D. O'Connell](https://www.stephenoconnell.org/). My academic journey includes a Master of Development Policy with a focus on sustainable development from [KDI School](https://www.kdischool.ac.kr/) in South Korea and a BA in Economics from Balkh University in Afghanistan.
 
-Prior to joining Emory, I served as a Senior Teaching Assistant at Ghazni University, where I taught courses in Introduction to Development Theory, Public Economics, History of Economic Thoughts, and Microeconomics to undergraduate students. My teaching career at Ghazni University began in 2014, and I was selected to lead the university's research center in 2020.
+Prior to joining Emory, I served as a Senior Teaching Assistant at Ghazni University, where I taught courses in Introduction to Development Theory, Public Economics, History of Economic Thoughts, Probability & Statistics, and Microeconomics to undergraduate students. My teaching career at Ghazni University began in 2014, and I was selected to lead the university's research center in 2020.
 
 As I step Outside work, photography enables me to have "a closer look" at the beauty of nature. I also enjoy playing soccer with friends in Atlanta.  
 
