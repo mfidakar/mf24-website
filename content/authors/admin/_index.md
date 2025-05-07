@@ -64,7 +64,7 @@ Hi, I am Mohammad Fidakar, a displaced scholar from [Ghaznin](https://en.wikiped
 
 Prior to joining Emory, I served as a Senior Teaching Assistant at Ghazni University, where I taught courses in Introduction to Development Theory, Public Economics, History of Economic Thoughts, Probability & Statistics, and Microeconomics to undergraduate students. My teaching career at Ghazni University began in 2014, and I was selected to lead the university's research center in 2020.
 
-As I step Outside work, photography enables me to have "a closer look" at the beauty of nature. I also enjoy playing soccer with friends in Atlanta.  
+As I step Outside work, photography enables me to have "a closer look" at the beauty of nature. I also enjoy gardening and playing soccer.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/fidakar_cv.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.
