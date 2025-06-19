@@ -60,11 +60,13 @@ superuser: true
 title: Mohammad Fidakar
 ---
 
-Hi, I am Mohammad Fidakar, a displaced scholar from [Ghaznin](https://en.wikipedia.org/wiki/Ghazni) (Afghanistan), and currently an economics PhD student at [Emory University](https://www.emory.edu/home/index.html), where I also work as research assistant with [Professor Stephen D. O'Connell](https://www.stephenoconnell.org/). My academic journey includes a Master of Development Policy with a focus on sustainable development from [KDI School](https://www.kdischool.ac.kr/) in South Korea and a BA in Economics from Balkh University in Afghanistan.
+Hi, I am Mohammad Fidakar, a displaced scholar from Afghanistan and currently a third-year Ph.D. student in Economics at [Emory University](https://www.emory.edu/home/index.html), where I also work with [Dr. O'Connell](https://www.stephenoconnell.org/). I hold a B.A. in Economics from Balkh University in Afghanistan and a Master of Development Policy (MDP) from KDI School in Sejong, South Korea. 
 
-Prior to joining Emory, I served as a Senior Teaching Assistant at Ghazni University, where I taught courses in Introduction to Development Theory, Public Economics, History of Economic Thoughts, Probability & Statistics, and Microeconomics to undergraduate students. My teaching career at Ghazni University began in 2014, and I was selected to lead the university's research center in 2020.
+Before joining Emory, I taught undergraduate courses in economics and at Ghazni University, where I began my academic career in 2014 and was appointed to lead the university’s research center in 2020.
 
-As I step Outside work, photography enables me to have "a closer look" at the beauty of nature. I also enjoy gardening and playing soccer.  
+My research interests lie at the intersection of development economics and political economy, with a focus on conflict, displacement, social cohesion, and return migration.
+
+Outside of my academic work, I find joy in photography— which allows me to take "a closer look" at the beauty of the nature— as well as in gardening and playing soccer. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/fidakar_cv.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.
