@@ -66,7 +66,7 @@ Before joining Emory, I taught undergraduate courses in economics and at Ghazni 
 
 My research interests lie at the intersection of development economics and political economy, with a focus on conflict, displacement, social cohesion, and return migration.
 
-Outside of my academic work, I find joy in photography— which allows me to take "a closer look" at the beauty of the nature— as well as in gardening and playing soccer. 
+As I step outside work, I find joy in photography— which allows me to take "a closer look" at the beauty of the nature— as well as in gardening and playing soccer. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/fidakar_cv.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.
