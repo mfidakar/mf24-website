@@ -60,11 +60,11 @@ superuser: true
 title: Mohammad Fidakar
 ---
 
-Hi, I am Mohammad Fidakar, a displaced scholar from Afghanistan and currently a third-year Ph.D. student in Economics at [Emory University](https://www.emory.edu/home/index.html), where I also work with [Dr. O'Connell](https://www.stephenoconnell.org/). I hold a B.A. in Economics from Balkh University in Afghanistan and a Master of Development Policy (MDP) from KDI School in Sejong, South Korea. 
+Hi, I am Mohammad Fidakar, a displaced scholar from Afghanistan and currently a third-year Ph.D. student in Economics at [Emory University](https://www.emory.edu/home/index.html), where I also work with [Dr. O'Connell](https://www.stephenoconnell.org/). My research interests lie at the intersection of development economics and political economy, with a focus on conflict, displacement, migration, and social cohesion. I hold a B.A. in Economics from Balkh University in Afghanistan and a Master of Development Policy (MDP) from KDI School in Sejong, South Korea. 
 
 Before joining Emory, I taught undergraduate courses in economics at Ghazni University, where I began my academic career in 2014 and was appointed to lead the university’s research center in 2020.
 
-My research interests lie at the intersection of development economics and political economy, with a focus on conflict, displacement, migration, and social cohesion.
+
 
 As I step outside work, I find joy in photography— which enables me to take "a closer look" at the beauty of the nature— as well as in gardening and playing soccer. 
 
