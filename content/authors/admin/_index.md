@@ -1,27 +1,26 @@
 ---
 bio: Mohammad Fidakar 
 
-education:
-  courses:
-  - course: PhD in Economics
-    institution: Emory University
-    year: 2028 (expected)
-  - course: MDP Development Policy
-    institution: KDI School of Public Policy & Management (Sejon, South Korea)
-    year: 2018
-  - course: BA in Economics
-    institution: Balkh University (Mazar-e Sharif, Afghanistan)
-    year: 2013 
+# Education:
+#  courses:
+# - course: PhD in Economics
+#  institution: Emory University
+#  year: 2028 (expected)
+#  - course: MDP Development Policy
+#    institution: KDI School of Public Policy & Management (Sejon, South Korea)
+#    year: 2018
+#  - course: BA in Economics
+#    institution: Balkh University (Mazar-e Sharif, Afghanistan)
+#    year: 2013 
   
     
 email: "mohammad.fidakar@emory.edu"
 
-highlight_name: false
+highlight_name: true
 
-interests:
-- Applied Microeconomics
-- Development Economics
-- Conflict, Displacement, Return Migration, and Social Cohesion
+# interests:
+# - Development Economics
+# - Conflict, Displacement, Migration, and Social Cohesion
 
 
 organizations:
@@ -29,6 +28,7 @@ organizations:
   url: https://economics.emory.edu/
   
 role: Economics PhD Student
+
 
 social:
 - icon: envelope
@@ -54,6 +54,14 @@ social:
 - icon: twitter 
   icon_pack: fab
   link: https://x.com/FidakarMohammad
+  
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/mohammad.fidakar
+  
+- icon: datacamp
+  icon_pack: fab
+  link: https://www.datacamp.com/portfolio/mfidakar
   
 superuser: true
 
