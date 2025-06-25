@@ -14,7 +14,7 @@ title = "Mohammad Fidakar"
 baseurl = ""
 
 # icon to be displayed next to the url address
-favicon = "favicon.ico"
+favicon = "icon.png"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
