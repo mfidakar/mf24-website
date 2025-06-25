@@ -1,5 +1,5 @@
 ---
-title: "A Study on Profitability of Afghanistan Coal Mine with ARDL Approach; Case Study of the North Coal Enterprise in Afghanistan"
+title: "Hussaini, A., Fidakar, M., & Erfan, A. (2024). A Study on Profitability of Afghanistan Coal Mine with ARDL Approach; Case Study of the North Coal Enterprise in Afghanistan. Iranian Economic Review."
 date: 2024-02-12
 publishDate: 2024-02-12
 authors: ["Atefa Hussaini, Mohammad Fidakar, Abbas Erfan"]

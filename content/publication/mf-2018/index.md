@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Maternal Education on Maternal Health Seeking Behavior in Afghanistan"
+title: "Fidakar, M. (2018). The Impact of Maternal Education on Maternal Health Seeking Behavior in Afghanistan"
 date: 2018-07-12
 publishDate: 2018-07-12
 authors: ["Mohammad Fidakar"]
