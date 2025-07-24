@@ -77,4 +77,4 @@ I hold a B.A. in Economics from Balkh University in Afghanistan and a Master of 
 As I step outside work, I find joy in photography— which enables me to take "a closer look" at the beauty of the nature— as well as in gardening and playing soccer. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/mohammad_cv.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/mohammad_CV.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.
