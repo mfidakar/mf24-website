@@ -59,9 +59,9 @@ social:
   icon_pack: fab
   link: https://www.facebook.com/mohammad.fidakar
   
-- icon: datacamp
-  icon_pack: fab
-  link: https://www.datacamp.com/portfolio/mfidakar
+#- icon: datacamp
+#icon_pack: fab
+#link: https://www.datacamp.com/portfolio/mfidakar
   
 superuser: true
 
@@ -74,7 +74,7 @@ I hold a B.A. in Economics from Balkh University in Afghanistan and a Master of 
 
 
 
-As I step outside work, I enjoy photography— which enables me to take "a closer look" at the beauty of the nature—, gardening, and playing soccer. 
+As I step outside work, I enjoy gardening, playing soccer, and photography— which enables me to take "a closer look" at the beauty of the nature. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/media/mohammad_CV.pdf" "newtab" >}}curriculum vitae{{</staticref >}}.
